@@ -1,7 +1,6 @@
 
-<h1 align="center">Portfolio</h1>
 <h2 align="center">
-<img src="https://avatars.mds.yandex.net/i?id=9abf606bc4c1494e135dcecb929d713f398973c9-7672861-images-thumbs&n=13" width="100%" >  
+<img src="https://avatars.mds.yandex.net/i?id=9abf606bc4c1494e135dcecb929d713f398973c9-7672861-images-thumbs&n=13" width="30%" >  </h2>
 
 
 | №| Название проекта| Описание | Стек |
