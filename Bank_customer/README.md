@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/104439032/233093979-a3086b5f-cd27-436d-bad7-d59d3b1dc013.png" width="55%" >  
+<img src="https://media.lpgenerator.ru/uploads/2022/01/18/1.jpg" width="55%" >  
 
 <h1 align="center">Отток клиентов</h1>
 
