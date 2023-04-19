@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://telecom4good.org/wp-content/uploads/2019/04/AdobeStock_233066089-Converted-3-768x427.png" width="55%" >  
+<img src="https://avatars.mds.yandex.net/i?id=3e65c72fd19d915fbebb5048d45c02ca259bbc11-9100543-images-thumbs&n=13" width="45%" >  
 
 <h1 align="center">Students Adaptability</h1>
 
