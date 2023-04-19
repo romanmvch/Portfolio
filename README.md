@@ -25,6 +25,8 @@
 |:-:| :-:|:-:|:-:|
 | 1 | [Анализ продаж магазинов](https://github.com/romanmvch/Portfolio/tree/main/Stores_Sales)|Анализ параметров, оказывающих влияние на продажи магазина.|  |
 | 2 | [Students Adaptability](https://github.com/romanmvch/Portfolio/tree/main/Students_Adaptability)|Анализ параметров, оказывающих влияние на успешность дистанционного обучения|  |
+| 2 | [Predicting Attrition](https://github.com/romanmvch/Portfolio/tree/main/Attrition_analysis)|Проанализировать имеющиеся данные, построить модель, предсказывающую увольнение сотрудника.|  |
+
 
 <h2 align="center">МГТУ Баумана</h2>
 
