@@ -1,7 +1,7 @@
 
 <h1 align="center">Predicting Attrition</h1>
 <h2 align="center">
-<img src="https://storage.yandexcloud.net/incrussia-prod/wp-content/uploads/2017/07/incover.jpg" width="100%" >  
+<img src="https://storage.yandexcloud.net/incrussia-prod/wp-content/uploads/2017/07/incover.jpg" width="55%" >  
 
 
 ## Описание
