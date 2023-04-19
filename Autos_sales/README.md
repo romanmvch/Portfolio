@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://sun9-20.userapi.com/impf/c841426/v841426676/12708/TQLaXOCjZdE.jpg?size=512x512&quality=96&sign=99a70b9b6727f01b64d31b0ea09426a4&c_uniq_tag=ZxrgOPFxw9CHSnZT0cJNnslBWIRj0ClRYEvBbL-cpGA&type=album" width="55%" >  
+<img src="https://kupim-avto-moskow.ru/img/cars-and-vehicles.png" width="30%" >  
 
 <h1 align="center">Определение стоимости автомобилей</h1>
 
