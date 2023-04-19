@@ -24,7 +24,7 @@
 | №| Название проекта| Описание | Стек |
 |:-:| :-:|:-:|:-:|
 | 1 | [Анализ продаж магазинов](https://github.com/romanmvch/Portfolio/tree/main/Stores_Sales)|Анализ параметров, оказывающих влияние на продажи магазина.|  |
-| 2 | [Students Adaptability]([https://github.com/romanmvch/Portfolio/tree/main/Stores_Sales](https://github.com/romanmvch/Portfolio/tree/main/Students_Adaptability) |Анализ параметров, оказывающих влияние на продажи магазина.|  |
+| 2 | [Students Adaptability](https://github.com/romanmvch/Portfolio/tree/main/Students_Adaptability)|Анализ параметров, оказывающих влияние на успешность дистанционного обучения|  |
 
 <h2 align="center">МГТУ Баумана</h2>
 
