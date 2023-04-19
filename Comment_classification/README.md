@@ -1,7 +1,7 @@
 <h2 align="center">
-<img src="https://tproger.ru/s3/uploads/2021/03/regexp_icon-cover.png" width="80%" >  
+<img src="https://img.freepik.com/premium-vector/bad-swear-talk-two-bubble-broken-communication-concept-illustration-hand-draw-line-style-hard-speaking-abusing-talk-depression-stress-discussion-anxiety-obscene-behavior-10-eps_111651-1076.jpg?w=826" width="40%" >  
 
-<h1 align="center">Исследование надёжности заёмщиков</h1>
+<h1 align="center">Классификация комментариев</h1>
 
 ## Описание проекта
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
