@@ -1,3 +1,15 @@
+<img src="https://github.com/romanmvch/romanmvch/blob/main/header.png?raw=true">
+
+
+ <p><a href="https://t.me/rome_v"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a></p>
+
+
+Completed courses **"Data Science.Bootcamp" (Yandex.Practicum)** and  **"Data Science" (BMSTU)**, studied Python with **Stepik**.
+
+
+
+
+
 <img src="https://github.com/romanmvch/romanmvch/blob/main/portf.png?raw=true">
 
 
@@ -23,8 +35,8 @@
 | №| Название проекта| Описание | Стек |Статус|
 |:-:| :-:|:-:|:-:|:-:|
 | 1 | [Анализ продаж магазинов](https://github.com/romanmvch/Portfolio/tree/main/Stores_Sales)|Анализ параметров, оказывающих влияние на продажи магазина.|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  <img src="https://img.shields.io/badge/Seaborn-%24110458.svg?style=for-the-badge&logo=Seaborn&logoColor=black"> ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)|✔️**COMPLITED**|
-| 2 | [Students Adaptability](https://github.com/romanmvch/Portfolio/tree/main/Students_Adaptability)|Анализ параметров, оказывающих влияние на успешность дистанционного обучения| <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> |✔️**COMPLITED**|
-| 2 | [Predicting Attrition](https://github.com/romanmvch/Portfolio/tree/main/Attrition_analysis)|Проанализировать имеющиеся данные, построить модель, предсказывающую увольнение сотрудника.|  |✔️**COMPLITED**|
+| 2 | [Students Adaptability](https://github.com/romanmvch/Portfolio/tree/main/Students_Adaptability)|Анализ параметров, оказывающих влияние на успешность дистанционного обучения| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <img src="https://img.shields.io/badge/Seaborn-%24110458.svg?style=for-the-badge&logo=Seaborn&logoColor=black"> ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  |✔️**COMPLITED**|
+| 2 | [Predicting Attrition](https://github.com/romanmvch/Portfolio/tree/main/Attrition_analysis)|Проанализировать имеющиеся данные, построить модель, предсказывающую увольнение сотрудника.| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <img src="https://img.shields.io/badge/Seaborn-%24110458.svg?style=for-the-badge&logo=Seaborn&logoColor=black"> ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Xboost](https://img.shields.io/badge/Xboost-%23150458.svg?style=for-the-badge&logo=) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |✔️**COMPLITED**|
 
 
 <h2 align="center">МГТУ Баумана</h2>
